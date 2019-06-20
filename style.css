@@ -1,0 +1,57 @@
+body {
+    background-image: url('https://quotefancy.com/media/wallpaper/3840x2160/2072439-Graham-Coxon-Quote-My-hobby-is-my-job-it-s-a-jobby.jpg');
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-size: cover;
+}
+
+h1, h6 {
+    color: #765E5E;
+}
+
+
+}
+.display {
+    border: none;
+    background-color: none;
+    padding: 0px 0px;
+}
+
+label {
+    color: #B94242;
+  
+}
+
+.well {
+    border: none;
+    background-color: none;
+}
+
+.addArea {
+    border: none;
+    background-color: none;
+    padding: 0px;
+}
+
+
+
+img {
+    width: 250px;
+    height: 230px;
+}
+
+.btn{
+  background-color:#0094FF;
+}
+.imgBox {
+    padding: 45px;
+}
+
+
+
+
+.container {
+    margin-bottom: 1
+    0px;
+}
+
+
